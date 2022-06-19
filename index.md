@@ -10,5 +10,5 @@ More details to come...
 ## CVE-2022-26929
 Remote Code Execution in .Net.  
 [https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-26929](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-26929)  
-Patched on June 2022.  
+Patched on September 2022.  
 Stay tuned...
